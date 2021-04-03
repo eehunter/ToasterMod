@@ -1,0 +1,21 @@
+{
+  "name": "no_room",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/noroom",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:jigsaw_replacement"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

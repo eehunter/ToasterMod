@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WNW",
+    "WAW",
+    "WLW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "N": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:bone"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "toastermod:basic_leg",
+    "count": 1
+  }
+}

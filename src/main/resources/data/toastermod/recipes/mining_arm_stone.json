@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MNM",
+    "WAW",
+    "MPM"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "P": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "N": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "A": {
+      "item": "toastermod:basic_arm"
+    }
+  },
+  "result": {
+    "item": "toastermod:mining_arm_stone",
+    "count": 1
+  }
+}
+

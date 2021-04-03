@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MNM",
+    "WAW",
+    "MPM"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "P": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "M": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
+      "item": "toastermod:mining_arm_iron"
+    }
+  },
+  "result": {
+    "item": "toastermod:mining_arm_diamond",
+    "count": 1
+  }
+}
+

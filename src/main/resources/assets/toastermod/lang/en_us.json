@@ -1,0 +1,21 @@
+{
+  "item.toastermod.strength_arm": "Strength Arm",
+  "item.toastermod.mining_arm_stone": "Stone Mining Arm",
+  "item.toastermod.mining_arm_iron": "Iron Mining Arm",
+  "item.toastermod.mining_arm_diamond": "Diamond Mining Arm",
+  "item.toastermod.mining_arm_netherite": "Netherite Mining Arm",
+  "item.toastermod.speed_leg": "Speed Leg",
+  "item.toastermod.fire_res_leg": "Fire Resistance Leg",
+  "item.toastermod.leopard_gecko_tail": "L3pRD-Gk0 Tail",
+  "item.toastermod.colorizer": "Colorizer",
+  "item.toastermod.basic_arm": "Protogen Arm",
+  "item.toastermod.basic_leg": "Protogen Leg",
+  "item.toastermod.basic_tail": "Protogen Tail",
+  "trinkets.slot.chest.leftarm": "Left Arm",
+  "trinkets.slot.chest.rightarm": "Right Arm",
+  "trinkets.slot.legs.leftleg": "Left Leg",
+  "trinkets.slot.legs.rightleg": "Right Leg",
+  "trinkets.slot.legs.tail": "Tail",
+  "trinkets.slot.head.colorizer": "Fur Colorizer",
+  "block.toastermod.battered_plating": "Laboratory Plating"
+}

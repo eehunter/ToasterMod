@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NAN",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "N": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "toastermod:basic_tail",
+    "count": 1
+  }
+}

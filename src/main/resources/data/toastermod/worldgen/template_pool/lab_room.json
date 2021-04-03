@@ -1,0 +1,36 @@
+{
+  "name": "lab_room",
+  "fallback": "toastermod:no_room",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/room1",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:jigsaw_replacement"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/room_wide1",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:jigsaw_replacement"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "toastermod",
+  "version": "${version}",
+
+  "custom": {
+    "cardinal-components": [
+      "toastermod:protocomp"
+    ]
+  },
+
+
+  "name": "Rise of the Toasters",
+  "description": "Toaster mod for Fabric.",
+  "authors": [
+    "Ned Hunter"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/toastermod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.oyosite.ticon.toaster.ToasterMod"
+    ],
+    "client": [
+      "com.oyosite.ticon.toaster.ToasterModClient"
+    ],
+    "cardinal-components-entity": [
+      "com.oyosite.ticon.toaster.component.EntityEntrypoint"
+    ]
+  },
+  "mixins": [
+    "toastermod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

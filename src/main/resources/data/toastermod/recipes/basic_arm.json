@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WNW",
+    "WAW",
+    "WNW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "N": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "toastermod:basic_arm",
+    "count": 1
+  }
+}

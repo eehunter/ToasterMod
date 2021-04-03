@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "WBW",
+    "RMR"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "M": {
+      "item": "minecraft:blaze_rod"
+    },
+    "B": {
+      "item": "toastermod:basic_arm"
+    }
+  },
+  "result": {
+    "item": "toastermod:strength_arm",
+    "count": 1
+  }
+}
+

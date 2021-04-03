@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "WBW",
+    "RMR"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "M": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "toastermod:basic_leg"
+    }
+  },
+  "result": {
+    "item": "toastermod:speed_leg",
+    "count": 1
+  }
+}
+

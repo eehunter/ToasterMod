@@ -1,0 +1,60 @@
+{
+  "name": "corridor_pool",
+  "fallback": "toastermod:corridor_end",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/corridor1",
+        "projection": "rigid",
+        "processors": "toastermod:lab"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/lintersection1",
+        "projection": "rigid",
+        "processors": "toastermod:lab"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/tintersection1",
+        "projection": "rigid",
+        "processors": "toastermod:lab"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/xintersection1",
+        "projection": "rigid",
+        "processors": "toastermod:lab"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/boxintersection1",
+        "projection": "rigid",
+        "processors": "toastermod:lab"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toastermod:labs/boxcorridor1",
+        "projection": "rigid",
+        "processors": "toastermod:lab"
+      }
+    }
+  ]
+}
